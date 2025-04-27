@@ -1,4 +1,3 @@
-
 document.querySelector('form').addEventListener('submit', function(e) {
     const nama = document.querySelector('input[name="Lalu Candra Adinito"]').value.trim();
     const email = document.querySelector('input[name="proscandra7@gmail.com"]').value.trim();
